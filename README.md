@@ -1,2 +1,1 @@
-# pjs
-Projekt - czujnik cofania Raspberry 
+Czujnik parkowania oparty na Raspberry Pi 2, sensorze odległości HC-SR04, buzzerze oraz kamerce. Czujnik będzie wysyłał na serwer obraz live wraz z odległością od przeszkody oraz wizualne i dźwiękowe sygnały, które będą ułatwać ocenę odległości bez potrzeby spoglądania na ekran.
